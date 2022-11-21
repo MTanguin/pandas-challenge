@@ -1,0 +1,19 @@
+Objectives:
+
+•	Analyze the district-wide standardized test results to help make strategic decisions regarding future school budgets and priorities.
+•	Aggregate the data to display obvious trends in school performance.
+
+Method:
+
+•	Data aggregation - where data was collected, created, manipulated using Pandas Data Frames and presented in a summarized format to achieve objectives.
+
+
+Analysis Report:
+
+1.	Based on the outcome, the highest performing school by school type is charter schools and the bottom five are district schools.
+
+2.	School size with less than one thousand (>1000) students has the highest overall passing rate for 90.14
+The school size affects the student’s performance. The bigger the class size the lower the overall passing rate.
+
+3.	Overall, charter schools outperformed the district schools by garnering an overall passing rate of 90.56, way too above from 53.69 overall passing rate of district schools.
+
