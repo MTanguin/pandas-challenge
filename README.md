@@ -37,3 +37,6 @@ By following these methods, we aim to gain a comprehensive understanding of scho
 The school size affects the student’s performance. The bigger the class size the lower the overall passing rate.
 
 3.	Overall, charter schools outperformed the district schools by garnering an overall passing rate of 90.56, way too above from 53.69 overall passing rate of district schools.
+
+### Source:
+https://courses.bootcampspot.com/courses/2799/assignments/42944?module_item_id=802839
